@@ -1,0 +1,34 @@
+Nom de l'exercice : rostring
+Fichiers attendus : rostring.c
+Fonctions autorisées : write, malloc, free
+---------------------------------------------------------------------------------
+
+Écrivez un programme qui prend une chaîne et affiche cette chaîne après l'avoir tournée
+un mot à gauche.
+
+Ainsi, le premier mot devient le dernier et les autres restent dans le même ordre.
+
+Un "mot" est défini comme une partie d'une chaîne délimitée soit par des espaces/tabulations, soit
+au début/à la fin de la chaîne.
+
+Les mots seront séparés par un seul espace dans la sortie.
+
+S'il y a moins d'un argument, le programme affiche \n.
+
+Exemple:
+
+$>./rostring "abc" | cat -e
+abc$
+$>
+$>./rostring "Que la lumière soit et la lumière fut"
+la lumière soit et la lumière fut Que
+$>
+$>./rostring " AkjhZ zLKIJz , 23 ans"
+zLKIJz , 23 ans AkjhZ
+$>
+$>./rostring "first" "2" "11000000"
+first
+$>
+$>./rostring | cat -e
+$
+$>
