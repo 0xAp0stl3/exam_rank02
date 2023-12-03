@@ -1,0 +1,13 @@
+Nom de l'exercice: ft_atoi
+Fichiers attendus : ft_atoi.c
+Fonctions autorisées : Aucune
+--------------------------------------------------------------------------------
+
+Ecrivez une fonction qui convertit l'argument str en un entier (type int)
+et le renvoie.
+
+Elle fonctionne comme la fonction standard atoi(const char *str), voir le manuel.
+
+Votre fonction doit être déclarée comme suit :
+
+int ft_atoi(const char *str) ;
