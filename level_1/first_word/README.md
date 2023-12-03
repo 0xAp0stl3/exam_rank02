@@ -1,4 +1,4 @@
-# SUBJECT
+# SUBJECT  
 Assignment name  : first_word
 Expected files   : first_word.c
 Allowed functions: write  
@@ -27,7 +27,7 @@ $> ./first_word "  lorem,ipsum  " | cat -e
 lorem,ipsum$
 $>
 
-# SUBJECT FRENCH
+# SUBJECT FRENCH  
 Nom de l'exercice: first_word  
 Fichiers attendus: first_word.c  
 Fonctions autorisées: write  
