@@ -8,7 +8,9 @@ d'une nouvelle ligne.
 
 S'il n'y a pas d'arguments, il affiche simplement un 0 suivi d'un saut de ligne.
 
-Exemple : $>./paramsum 1
+Exemple : 
+
+$>./paramsum 1
 
 $>./paramsum 1 2 3 5 7 24
 6
