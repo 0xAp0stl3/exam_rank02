@@ -1,0 +1,10 @@
+Nom du fichier : ft_swap
+Fichiers attendus : ft_swap.c
+Fonctions autorisées :
+--------------------------------------------------------------------------------
+
+Ecrire une fonction qui permute le contenu de deux entiers dont les adresses sont passées en paramètre.
+
+Votre fonction doit être déclarée comme suit :
+
+void ft_swap(int *a, int *b);
