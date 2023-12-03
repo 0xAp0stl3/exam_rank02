@@ -1,0 +1,14 @@
+Nom de l'exercice : max
+Fichiers attendus : max.c
+Fonctions autorisées :
+--------------------------------------------------------------------------------
+
+Ecrivez la fonction suivante :
+
+int max(int* tab, unsigned int len) ;
+
+Le premier paramètre est un tableau d'int, le second est le nombre d'éléments du tableau.
+
+La fonction renvoie le plus grand nombre trouvé dans le tableau.
+
+Si le tableau est vide, la fonction renvoie 0.
