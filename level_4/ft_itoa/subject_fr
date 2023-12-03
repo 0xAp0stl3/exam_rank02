@@ -1,7 +1,7 @@
 Nom de l'exercice : ft_itoa
 Fichiers attendus : ft_itoa.c
 Fonctions autorisées : malloc
--------------------------------------------------- -------------------------------
+---------------------------------------------------------------------------------
 
 Écrivez une fonction qui prend un int et le convertit en une chaîne terminée par un caractère nul.
 La fonction renvoie le résultat dans un tableau de caractères que vous devez allouer.
