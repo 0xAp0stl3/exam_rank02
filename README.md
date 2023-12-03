@@ -9,5 +9,7 @@ Level 1: 12 Functions/Programs.
 Level 2: 20 Functions/Programs.  
 Level 3: 15 Functions/Programs.  
 Level 4: 10 Functions/Programs.  
-  
+# FOR FRENCH
+Pour mes compatriotes, j'ai traduit tous les sujets des différentes questions.
+
 Good luck.
