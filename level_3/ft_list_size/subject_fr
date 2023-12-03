@@ -1,0 +1,19 @@
+Nom de l'exercice : ft_list_size
+Fichiers attendus : ft_list_size.c, ft_list.h
+Fonctions autorisées :
+--------------------------------------------------------------------------------
+
+Ecrivez une fonction qui renvoie le nombre d'éléments de la liste chaînée qui lui est passée.
+
+Elle doit être déclarée comme suit :
+
+int ft_list_size(t_list *begin_list) ;
+
+Vous devez utiliser la structure suivante et la présenter dans un fichier appelé
+ft_list.h :
+
+typedef struct s_list
+{
+    struct s_list *next ;
+    void *data ;
+} t_list ;
