@@ -1,0 +1,25 @@
+Nom de l'exercice : union
+Fichiers attendus : union.c
+Fonctions autorisées : write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend deux chaînes de caractères et affiche, sans double, les caractères qui apparaissent dans l'une ou l'autre des chaînes.
+
+L'affichage se fera dans l'ordre d'apparition des caractères dans la ligne de commande, et sera suivi d'un \n.
+
+Si le nombre d'arguments est différent de 2, le programme affiche \n.
+
+Exemple :
+
+$>./union zpadinton "paqefwtdjetyiytjneytjoeyjnejeyj" | cat -e
+zpadintoqefwjy$
+$>./union ddf6vewg64f gtwthgdwthdwfteewhrtag6h4ffdhsd | cat -e
+df6vewg4thras$ $>./union
+$>./union "rien" "cette phrase ne cache rien" | cat -e
+rienct phas$
+$>./union | cat -e
+$
+$>
+$>./union "rien" | cat -e
+$
+$>
