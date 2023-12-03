@@ -8,7 +8,7 @@ Ecrire un programme qui affiche la table de multiplication d'un nombre.
 Le paramètre sera toujours un nombre strictement positif qui tient dans un int,
 et ce nombre multiplié par 9 tiendra également dans un int.
 
-S'il n'y a pas de paramètres, le programme affiche \N.
+S'il n'y a pas de paramètres, le programme affiche \n.
 
 Exemples :
 
