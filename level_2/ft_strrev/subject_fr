@@ -1,0 +1,12 @@
+Nom de l'exercice : ft_strrev
+Fichiers attendus : ft_strrev.c
+Fonctions autorisées :
+--------------------------------------------------------------------------------
+
+Ecrivez une fonction qui inverse (sur place) une chaîne de caractères.
+
+Elle doit retourner son paramètre.
+
+Votre fonction doit être déclarée comme suit :
+
+char *ft_strrev(char *str) ;
